@@ -1,5 +1,7 @@
 ## Listing GraphQL Server
-Simple listing graphql server [here](https://github.com/alifrizkip/listing-graphql-server.git)
+Simple listing graphql server.
+  - [Demo Backend](https://listing-graphql-server.herokuapp.com/api)
+  - [Demo Frontend](https://listing-graphql-client.netlify.app/)
 
 ## Requirement
   - [node.js](http://nodejs.org/)
